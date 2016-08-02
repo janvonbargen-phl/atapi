@@ -2,6 +2,7 @@ name: AT Developer Portal
 description: Blog
 meta_description: "AT Developer Portal Blog"
 
+timezone: Pacific/Auckland
 markdown: kramdown
 highlighter: rouge
 logo: false
